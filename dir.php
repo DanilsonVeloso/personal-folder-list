@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
-
+<!--by Danilson Veloso-->
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="Danilson Veloso">
     <link rel="stylesheet" href="/res/font/flaticon.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
-    <title>Localhost<?php echo substr($_SERVER['PHP_SELF'], 10);?></title>
+    <title>Localhost<?php echo $_SERVER["REQUEST_URI"];?></title>
     <style>
         *{margin: 0;padding: 0;font-family: 'Roboto', sans-serif;font-weight: 300;font-size: 100%;box-sizing: border-box;-webkit-box-sizing: border-box;text-decoration: none;}
         ul{list-style: none;margin-top: 10px;}
