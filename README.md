@@ -4,9 +4,9 @@ Tem por objetivo: listar os arquivos e pastas de um projeto, basta criar um inde
 e incluir o arquivo que faz a estilização.
 
 Inclui os arquivos:
-> index.php
+> index.php #inclue o dir.php
 
-> dir.php
+> dir.php #contém a estilização
 
 Uma pasta com fonticons
 > res
