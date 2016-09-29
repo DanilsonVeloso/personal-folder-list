@@ -9,4 +9,4 @@ Inclui os arquivos:
 > dir.php
 
 Uma pasta com fonticons
-> res > font > arquivos
+> res
